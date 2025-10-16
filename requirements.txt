@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+Pillow
+SpeechRecognition
+PyAudio
+Flask
+requests
