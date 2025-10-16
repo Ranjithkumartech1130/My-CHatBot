@@ -5,3 +5,6 @@ SpeechRecognition
 PyAudio
 Flask
 requests
+portaudio19-dev
+libportaudio2
+ffmpeg
