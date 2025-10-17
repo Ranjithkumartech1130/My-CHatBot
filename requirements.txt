@@ -4,7 +4,5 @@ Pillow
 SpeechRecognition
 Flask
 requests
-portaudio19-dev
-libportaudio2
-ffmpeg
-
+pyaudio
+sounddevice
